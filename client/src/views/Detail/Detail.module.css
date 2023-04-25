@@ -1,0 +1,157 @@
+.loading{
+    background-image: url('../../images/charmander.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:800px;
+    width: 1200px;
+    margin-left: 120px;
+}
+
+.pokemonlogoloading{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    left: 0px;
+    top:0px;
+}
+
+.home{
+    background-color: rgb(246, 210, 113);
+    height:970px;
+    margin: 0px;
+    padding: 0px;
+    display: grid;
+    place-content: center;
+    text-align: center;
+}
+
+.home p{
+    margin: 0px;
+    padding: 0px;
+}
+
+.pokemonlogo{
+    margin: 0px;
+    padding: 0px;
+}
+
+.boton{
+    background-color:rgb(226, 214, 44);
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    width: 50%;
+    right: 0px;
+    left: 0px;
+    margin-left: 95px;
+    font-size:30px;
+    border-radius: 20%;
+}
+
+.psyduck{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    height: 25%;
+}
+
+.pokeball{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 25%;
+}
+
+
+
+.detail{
+    background-color: rgb(221, 33, 33);
+    height: 650px;
+    width: 450px;
+    border-radius: 15%;
+    display: grid;
+    place-content: center;
+    text-align: center;
+}
+
+.arriba{
+    background-color: white;
+    margin-bottom: 5px;
+    border-radius: 15%;
+    border-style: solid;
+    border-color: black;
+    height: 300px;
+}
+
+.data{
+    margin-top: 15px;
+    border: 2px;
+    border-radius: 15%;
+    border-style: solid;
+    border-color: black;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.id{
+    margin-top: 0px;
+}
+
+.tipos{
+    border: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 15px;
+}
+
+.image{
+    border-radius: 15px;
+    font-size: 30px;
+    height: 300px;
+    margin-bottom: 0px;
+}
+
+.nombre{
+    border: 3px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: aliceblue;
+    margin-bottom: 15px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+
+.barra2{
+    background-color: transparent;
+    height: 10px;
+    width: 300px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.barra{
+    position: absolute;
+    background-color: black;
+    height: 10px;
+    width: 450px;
+    margin-bottom: 15px;
+    margin-top: 335px;
+
+}
+
+.poke{
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    margin-left: 215px;
+    margin-top: -10px;
+}
+
+.atras{
+    text-decoration: none;
+}

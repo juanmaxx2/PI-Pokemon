@@ -1,0 +1,84 @@
+.pokeball{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    left: 0;
+    bottom: 0;
+    transform: rotate(-15deg);
+    margin-bottom: 35px;
+}
+
+.atras{
+    border-radius: 15px;
+    border-color: black;
+    border-style: solid;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -25px;
+    text-decoration: none;
+}
+
+.Create{
+    background-color: rgb(234, 239, 161);
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: center;
+    height:970px;
+    margin: 0;
+    padding: 0;
+}
+
+.Create form{
+    background-color: rgb(240, 248, 24);
+    border-radius: 15px;
+    border-color: black;
+    border-style: black;
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    height: 700px;
+    padding-top: 15px;
+}
+
+.Create form input{
+    height:30px;
+    width:400px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+}
+
+.Create form p{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Create form button{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 160px;
+    margin-top: 10px;
+    height: 45px;
+}

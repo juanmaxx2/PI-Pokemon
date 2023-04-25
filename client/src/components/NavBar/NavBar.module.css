@@ -1,0 +1,35 @@
+.NavBar{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 25px;
+}
+
+.pokemonLogo{
+    height:60px;
+}
+
+.home{
+    background-color:azure;
+    margin: 20px;
+    padding: 2px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20%;
+    text-decoration: none;
+}
+
+.create{
+    background-color:azure;
+    margin: 20px;
+    padding: 2px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20%;
+    text-decoration: none;
+}

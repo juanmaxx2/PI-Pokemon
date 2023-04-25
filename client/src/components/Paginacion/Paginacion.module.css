@@ -1,0 +1,24 @@
+.Paginacion{
+    display: flex;
+    flex-wrap: wrap;
+    width: fit-content;
+    height: fit-content;
+    margin-top: -14px;
+    padding: 0px;
+    justify-content: space-around;
+}
+
+.Paginacion button{
+    background-color:azure;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20%;
+    height: 40px;
+    width: 40px;
+    margin: 15px;
+    margin-top: -14px;
+}
+
+.boton{
+    transform: rotate(180deg);
+}

@@ -1,0 +1,17 @@
+.Home{
+    background-color: rgb(93, 182, 233);
+    padding: 0;
+    height:970px;
+    
+}
+
+.squirtle{
+    position: absolute;
+    bottom: 0px;
+    height: 25%;
+    transform: scaleX(-1);
+}
+
+.SearchBar{
+    width: 100%;
+}

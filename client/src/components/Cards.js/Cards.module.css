@@ -1,0 +1,139 @@
+.loading{
+    background-image: url('../../images/charmander.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:800px;
+    width: 1200px;
+    margin-left: 300px;
+    text-decoration: none;
+}
+
+.home{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height:810px;
+    width: 1877px;
+    text-align: center;
+    font-size: 20px; 
+    text-decoration: none;
+}
+
+
+.button{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    left: 0px;
+    height: 300px;
+    width: 200px;
+    text-decoration: none;
+    
+} 
+
+.button button{
+    background-color:azure;
+    margin: 20px;
+    padding: 2px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    font-size: 20px; 
+}
+
+.button option{
+    font-size: 10px; 
+}
+
+.button select{
+    background-color:azure;
+    margin: 0px;
+    margin-bottom: 10px;
+    padding: 2px;
+    width: 70%;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20%;
+}
+
+.tipo{
+    background-color:azure;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20%;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.tipo p{
+    padding: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Cards{
+    display: flex;
+    padding: 0px;
+    height: fit-content;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.squirtle{
+    position: absolute;
+    bottom: 0px;
+    height: 25%;
+    transform: scaleX(-1);
+}
+
+.ordenar{
+    background-color: aliceblue;
+    border: black;
+    border-radius: 15px;
+    border-style: solid;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.ordenar p{
+    margin: 0px;
+    padding: 0px;
+}
+
+.paginacion{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+}
+
+.izquierda{
+    width: 200px;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+}
+
+.izquierda button{
+    background-color: aliceblue;
+    height: 40px;
+    width: 100px;
+    border-radius: 15px;
+    font-size: 30px;
+    border: black solid 2px;
+    
+}
+
+
+P{
+    text-decoration: none;
+}

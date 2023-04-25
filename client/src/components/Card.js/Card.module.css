@@ -1,0 +1,59 @@
+.Card{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 360px;
+    width: 230px;
+    margin: 10px;
+    border-style: solid;
+    background-color: rgb(247, 213, 151);
+    border-radius: 15%;
+    margin-bottom: 0px;
+    text-decoration: none;
+}
+
+.nombre{
+    font-size: 25px;
+    margin: 10px;
+    padding: 0px;
+    background-color: aliceblue;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+
+.Card img{
+    height: 200px;
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.tipos{
+    font-size: 25px; 
+    margin: 0px;
+    padding: 0px;
+    background-color: aliceblue;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.tipos p{
+    border: 0px;  
+    font-size: 25px; 
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    text-decoration: none;
+}
+
+.nombreLink{
+    text-decoration: none;
+}

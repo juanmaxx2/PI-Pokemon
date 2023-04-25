@@ -1,0 +1,64 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+
+.Container{
+    background-image: url('../../images/Landing/fondo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 60px;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    padding: 0;
+    height:970px;
+    display: grid;
+    place-content: center;
+}
+
+.pokeball{
+    position: absolute;
+    top: 100px; 
+    right: 600px;
+    height: 20%;
+    transform: rotate(-20deg);
+}
+
+.pokemonImage{
+    position: absolute;
+    top: 120px; 
+    right: 30px;
+    height: 23%;
+    transform: rotate(20deg);
+}
+
+.Grookey{
+    position: absolute;
+    bottom: 60px; 
+    right: 160px;
+    height: 60%;
+    transform: rotate(20deg);
+}
+
+.Boton{
+    text-decoration: none;
+    padding: 0;
+    width: 300px;
+    background-color: transparent;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    margin-left:480px;
+    text-decoration: none;
+}
+
+p{
+    text-decoration: none;
+}
+
+.Home{
+    text-decoration: none;
+}
